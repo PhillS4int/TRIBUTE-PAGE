@@ -60,8 +60,12 @@ a:visited{
 /*IMAGE*/
 
 img{
+    display: block;      
+}
+
+#image{
+    width: 70%;
     max-width: 100%;
-    display: block;
     height: auto;
     margin: 0 auto;
 }
